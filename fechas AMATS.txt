@@ -1,0 +1,42 @@
+ITERACION 1:
+Historias 5,6,11,2,3,4 
+5 y 6 :domigo 23 (diseñador) cristian
+11: lunes 24 (diseñador) cristian
+2: lunes 24 (programadora)Joselinne
+3: martes 25 y miercoles 26 (programador)Alejandro
+4:jueves 27(programadora) Joselinne
+
+
+
+ITERACION 2:
+Historias 12,13,14,15,16 
+12: viernes 28 y sabado 29 (programadora y Diseñador)Joselinne y Cristian
+13: domingo 30 (programador)Alejandro
+14: lunes 31 (Diseñador)Cristian
+15: martes 1 y miercoles 2(programadorAlejandro
+16: jueves 3 (programadora)Joselinne
+
+
+
+ITERACION 3:
+Historias 1,7,8,9,10 
+1: viernes 4 (1 Diseñador)Cristian
+7: viernes 4 (diseñador)Cristian
+8: viernes 4 (programadores)Joselinne
+9: sabado 5 (programadores)Joselinne
+10: sabado 5 (programadores)Alejandro
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
